@@ -1,5 +1,5 @@
 # Linux-Scripts
-Linux Scripts For installing Tools
+
 
 ## Some Linux Scripts for Installing Tools and Other Stuff after Fresh Install of Linux.
 
