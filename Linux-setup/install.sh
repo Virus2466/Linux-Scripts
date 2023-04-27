@@ -56,8 +56,8 @@ fi
 
 echo "Starting Docker Service"
 
-#systemctl start docker
-#systemctl enable docker
+systemctl start docker
+systemctl enable docker
 
 
 echo "Installing Kubernetes Tools."
@@ -78,5 +78,6 @@ curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stabl
 sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 
 
-
+echo "Installing Code editor"
+sudo pacman -S neovim
 
