@@ -11,3 +11,9 @@
 ```
 wget -qO- https://raw.githubusercontent.com/Virus2466/Linux-Scripts/main/Linux-setup/install.sh | bash
 ```
+
+
+### 2 . Graphics.sh [Installing Graphics Libs ]
+```
+wget -qO- https://raw.githubusercontent.com/Virus2466/Linux-Scripts/main/Graphics.sh | bash
+```
