@@ -1,7 +1,7 @@
 # Linux-Scripts
 
 
-## Some Linux Scripts for Installing Tools and Other Stuff after Fresh Install of Linux.
+## Linux Scripts for Installing Tools and Other Stuff after Fresh Install of Linux.
 
 
 #### Usage
